@@ -1,0 +1,22 @@
+{
+  "name": "jest-testing-practice",
+  "version": "1.0.0",
+  "description": "Practice for using Jest and test driven development",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dp-beck/jest-testing-practice.git"
+  },
+  "author": "Dan Beck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dp-beck/jest-testing-practice/issues"
+  },
+  "homepage": "https://github.com/dp-beck/jest-testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
